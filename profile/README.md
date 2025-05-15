@@ -1,2 +1,2 @@
 # Организация портала серверов K-2 для удобства
-![logo](profile/logo.jpg)
+![logo](logo.jpg)
